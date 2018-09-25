@@ -49,3 +49,10 @@ table {
 h1 {
   font-family: 'PT Sans Caption', sans-serif;
 }
+
+body {
+  background-image: url(dc-online-media-mockup.jpg);
+  background-size: 800px 20624px;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
