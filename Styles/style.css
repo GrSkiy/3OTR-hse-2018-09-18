@@ -53,6 +53,7 @@ h1 {
   font-family: 'PT Sans Caption', sans-serif;
   font-size: 40px;
   font-weight: bold;
+	letter-spacing:0.7px;
 }
 
 p:first-of-type {
@@ -63,8 +64,9 @@ p:first-of-type {
 p {
   font-family: 'PT Sans caption', sans-serif;
   font-size: 22px;
-  margin-top: 4px;
-line-height: 32px;
+  margin-top: 3px;
+	line-height: 32px;
+	letter-spacing:1px;
 }
 
 body {
@@ -75,12 +77,8 @@ body {
 }
 body {
   width: 700px;
-
-
-margin-top: 69px;
-margin-bottom: 0;
-margin-left: auto;
-margin-right: auto;
-
-
+	margin-top: 67px;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
 }
